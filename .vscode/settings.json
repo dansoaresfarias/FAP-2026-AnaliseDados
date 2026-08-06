@@ -10,7 +10,7 @@
         {
             "alias": "prf_2025",
             "type": "file",
-            "path": "c:\\Users\\danso\\OneDrive\\Documentos\\GitHub\\FAP-2026-AnaliseDados\\Projeto_PRF\\prf_2025.duckdb",
+            "path": "/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/prf_2025.duckdb",
             "attached": true
         }
     ],

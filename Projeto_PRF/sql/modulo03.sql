@@ -373,3 +373,6 @@ update acidentes_prf_2025
 set acidente_fatal = case when mortos >= 1 then true else false end;
 
 select * from acidentes_prf_2025;
+
+Select * from acidentes_prf_2025
+   WHERE acidente_fatal == is true;
